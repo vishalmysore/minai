@@ -7,10 +7,11 @@
     <groupId>io.github.vishalmysore</groupId>
     <artifactId>minai</artifactId>
     <version>0.0.1</version>
+    <name>Minimum Client For OpenAI for Java</name>
     <description>
-        Java implementation of the A2A protocol, which allows for the exchange of data between different AI systems.
         Minimal Java client for OpenAI Chat Completions using only the JDK. No external dependencies.
     </description>
+
     <url>https://github.com/vishalmysore/minai</url>
     <licenses>
         <license>
